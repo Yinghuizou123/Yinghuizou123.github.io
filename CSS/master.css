@@ -25,6 +25,10 @@ padding: 0;
 list-style: none;
 
 }
+.vocabimage{
+  width:  50%;
+  height: 70%;
+}
 nav li{
 
  display: inline-block;
@@ -117,6 +121,7 @@ color: #595959;
 color: #595959;
 
 }
+
 
 .tex2{
 color: #595959; 
@@ -360,6 +365,10 @@ font-size: 30px;
 #expid{
 
   color: #3361FF; 
+}
+.vocabimage{
+  width:  50%;
+  height: 70%;
 }
 
 
