@@ -60,7 +60,7 @@ nav a :focus{
 }
 
 .imageclass{
-	 border-radius: 50%;
+   border-radius: 50%;
 width: 100px;
   height: 100px;
 
@@ -132,6 +132,11 @@ color: #4d4d4d;
 }
 
 #vocabid{
+color: #4d4d4d;
+
+}
+
+#mapid,.gradeid{
 color: #4d4d4d;
 
 }
@@ -316,7 +321,7 @@ color: #4d4d4d;
 }
 
 
-.project2{
+.project2,.project3,.project4{
    width: 70%;
   
   margin-left: auto;
@@ -366,7 +371,7 @@ font-size: 30px;
 
   color: #3361FF; 
 }
-.vocabimage{
+.vocabimage,.mapimage,.gradeimage{
   width:  50%;
   height: 70%;
 }
